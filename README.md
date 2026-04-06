@@ -2,37 +2,29 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andrehifran/">
-    <img src="https://cdn.simpleicons.org/linkedin/4280F7" width="28">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/tec.hifran">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" width="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/andrehifran">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="28">
   </a>
 </p>
 
-## 🚀 Meus Projetos
+## 🚀 Meus Projetos Pessoais
 
-<p align="center">
+<p align="left">
   <a href="https://dicasdeinformatica.com.br/">
     <img src="https://img.shields.io/badge/📝_Blog_Pessoal-4280F7?style=for-the-badge">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://techifran.com/">
-    <img src="https://img.shields.io/badge/🤖_Site_com_IA-4280F7?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🤖_Meu_Site_com_IA-4280F7?style=for-the-badge">
   </a>
 </p>
-
-<br>
-
-<p align="left">
-  <a href="https://www.youtube.com/@andrehifran?sub_confirmation=1">
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCbTor9DqdV4-NsXgmRTZIdg?style=for-the-badge"/>
-  </a>
-  <a href="https://www.youtube.com/@andrehifran">
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCbTor9DqdV4-NsXgmRTZIdg?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/andrehifran?tab=followers">
-    <img src="https://img.shields.io/github/followers/andrehifran?style=for-the-badge"/>
-  </a>
-</p>
-
-<br>
 
 </p>
 
