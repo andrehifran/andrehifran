@@ -1,3 +1,17 @@
+<!--
+    Querido usuário usando meu README como base para criar seu próprio:
+    Fico muito feliz que você tenha gostado e sinta-se livre para o uso!
+    Eu apenas peço uma coisa, por gentileza:
+
+    Por favor, deixe uma estrela no meu README, irá deixar meu dia mais feliz :)
+    ------
+    Dear user using my README as a base  to create your own:
+    I’m glad you liked it and feel free to use it!
+    I just kindly ask for one thing:
+
+    Please, leave a star on my README, it will make my day :)
+-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4280F7&width=435&lines=%F0%9F%96%90%EF%B8%8FOl%C3%A1%2C+%E2%98%BA%EF%B8%8F+meu+nome+%C3%A9+Andr%C3%A9+Hifran;Sou+desenvolvedor+de+software%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo+e+me+siga.%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ## 🚀 Meus Projetos Pessoais
