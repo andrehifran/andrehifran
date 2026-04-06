@@ -167,6 +167,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-pla
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 
+
+
+<br/>
+
 ---
 
 <!-- Pacman -->
@@ -177,6 +181,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-pla
 </picture>
 
 ---
-
-<br/>
 <br/>
