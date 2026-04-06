@@ -1,19 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4280F7&width=435&lines=%F0%9F%96%90%EF%B8%8FOl%C3%A1%2C+%E2%98%BA%EF%B8%8F+meu+nome+%C3%A9+Andr%C3%A9+Hifran;Sou+desenvolvedor+de+software%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo+e+me+siga.%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrehifran/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="28">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/tec.hifran">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" width="28">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/andrehifran">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="28">
-  </a>
-</p>
-
 ## 🚀 Meus Projetos Pessoais
 
 <p align="left">
@@ -43,6 +29,8 @@
          <a href="https://github.com/andrehifran?tab=followers">
          <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/andrehifran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/>
          </a>
+          <a href="https://instagram.com/andrehifran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/andrehifran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
    </p>
 
