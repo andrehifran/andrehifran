@@ -2,54 +2,57 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andrehifran/">
-    <img 
-      src="https://cdn.simpleicons.org/linkedin/4280F7" 
-      width="28"
-    />
+    <img src="https://cdn.simpleicons.org/linkedin/4280F7" width="28">
   </a>
 </p>
 
-<h2 align="center">🚀 Meus Projetos</h2>
+## 🚀 Meus Projetos
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>📝 Blog Pessoal</h3>
-      <a href="https://dicasdeinformatica.com.br/">
-        <img src="https://img.shields.io/badge/Acessar-4280F7?style=for-the-badge&logo=wordpress&logoColor=white">
-      </a>
-    </td>
-
-    <td width="80"></td>
-
-    <td align="center">
-      <h3>🤖 Site com IA</h3>
-      <a href="https://techifran.com/">
-        <img src="https://img.shields.io/badge/Visitar-4280F7?style=for-the-badge&logo=googlechrome&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://dicasdeinformatica.com.br/">
+    <img src="https://img.shields.io/badge/📝_Blog_Pessoal-4280F7?style=for-the-badge">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://techifran.com/">
+    <img src="https://img.shields.io/badge/🤖_Site_com_IA-4280F7?style=for-the-badge">
+  </a>
+</p>
 
 <br>
 
 <p align="left">
   <a href="https://www.youtube.com/@andrehifran?sub_confirmation=1">
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCbTor9DqdV4-NsXgmRTZIdg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCbTor9DqdV4-NsXgmRTZIdg?style=for-the-badge"/>
   </a>
-
   <a href="https://www.youtube.com/@andrehifran">
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCbTor9DqdV4-NsXgmRTZIdg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCbTor9DqdV4-NsXgmRTZIdg?style=for-the-badge"/>
   </a>
-
-  <a href="https://github.com/andrehifran?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/andrehifran?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-  </a>
-
   <a href="https://github.com/andrehifran?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/andrehifran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/>
+    <img src="https://img.shields.io/github/followers/andrehifran?style=for-the-badge"/>
   </a>
 </p>
+
+<br>
+
+</p>
+
+
+   <p align="left">
+      <a href="https://www.youtube.com/@andrehifran?sub_confirmation=1">
+         <img alt="Inscritos" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCbTor9DqdV4-NsXgmRTZIdg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+         </a>
+            <a href="https://www.youtube.com/@andrehifran">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCbTor9DqdV4-NsXgmRTZIdg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+         </a>
+         <a href="https://github.com/andrehifran?tab=repositories&sort=stargazers">
+         <img alt="total estrelas" 
+         title="Total estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrehifran?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+         </a>
+         <a href="https://github.com/andrehifran?tab=followers">
+         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/andrehifran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/>
+         </a>
+     
+   </p>
 
 ### 🤖 Linguagens e Tecnologias
 
