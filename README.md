@@ -17,6 +17,10 @@
         <img src="https://img.shields.io/badge/Acessar-4280F7?style=for-the-badge&logo=wordpress&logoColor=white">
       </a>
     </td>
+
+    <!-- Espaço entre os dois -->
+    <td width="60"></td>
+
     <td align="center">
       <h3>🤖 Site com IA</h3>
       <a href="https://techifran.com/">
