@@ -52,8 +52,8 @@
 
 <img
 align= "left"
-alt="CSS"
-title="CSS"
+alt="Delphi"
+title="Delphi"
 width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-plain.svg" 
