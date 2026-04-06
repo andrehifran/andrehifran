@@ -1,22 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4280F7&width=435&lines=%F0%9F%96%90%EF%B8%8FOl%C3%A1%2C+%E2%98%BA%EF%B8%8F+meu+nome+%C3%A9+Andr%C3%A9+Hifran;Sou+desenvolvedor+de+software%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo+e+me+siga.%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/andrehifran/" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" 
-      width="32"
-      style="filter: invert(48%) sepia(98%) saturate(2474%) hue-rotate(201deg) brightness(97%) contrast(101%);"
+      width="28"
     />
   </a>
 </p>
 
-### Blog Pessoal
-
-[![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white/)](https://dicasdeinformatica.com.br/)
-
-### Site Empresarial com IA
-
-[![Blog](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://techifran.com/)
+<table>
+  <tr>
+    <td align="center">
+      <h3>📝 Blog Pessoal</h3>
+      <a href="https://dicasdeinformatica.com.br/">
+        <img src="https://img.shields.io/badge/Acessar-4280F7?style=for-the-badge&logo=wordpress&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <h3>🤖 Site com IA</h3>
+      <a href="https://techifran.com/">
+        <img src="https://img.shields.io/badge/Visitar-4280F7?style=for-the-badge&logo=googlechrome&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
    <p align="left">
       <a href="https://www.youtube.com/@andrehifran?sub_confirmation=1">
