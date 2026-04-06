@@ -166,8 +166,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-pla
 />
 <img 
   align="left" 
-    alt="mysql" 
-    title="mysql"
+    alt="vite" 
+    title="vite"
     width="30px" 
     style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg"
