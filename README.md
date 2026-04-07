@@ -14,6 +14,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4280F7&width=435&lines=%F0%9F%96%90%EF%B8%8FOl%C3%A1%2C+%E2%98%BA%EF%B8%8F+meu+nome+%C3%A9+Andr%C3%A9+Hifran;Sou+desenvolvedor+de+software%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo+e+me+siga.%F0%9F%9A%80)](https://git.io/typing-svg)
 
+
+<p> Formado em Processamento de Dados, pela faculdade Fatec-RO e pós graduado em Docência do Ensino Superior.</p>
+
+<p>Atualmente estou focado em projetos com Inteligência Artificial e Automações Comerciais</p>
+
+<p>Criatividade, facilidade em aprender e ensinar, raciocínio lógico fazem parte do meu perfil.</p>
+
+<p>Para dúvidas, projetos ou oportunidades profissionais, entre em contato através das minhas redes sociais ou no meu site abaixo.</p>
+
 ## 🚀 Meus Projetos Pessoais
 
 <p align="left">
